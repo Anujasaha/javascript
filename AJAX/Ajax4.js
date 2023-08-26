@@ -22,6 +22,8 @@ function getSingleuserInfo(id) {
 // }
 // GetInfo()
 
+//===================================================================================
+
 // Promise.all()
 // Promise.allSettled()
 // Promise.any()
@@ -95,7 +97,7 @@ function getReject(){
  }
  allRace()
 
-
+//============================================================================
 
 // //missed the below session
 

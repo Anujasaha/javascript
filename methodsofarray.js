@@ -23,7 +23,7 @@
 // console.log(newnumber)
 
 
-// let birthyear = [1990, 1991, 1992, 1993, 1994] //finf out currernt age
+// let birthyear = [1990, 1991, 1992, 1993, 1994] //finf out current age
 // let currentAge = birthyear.map(function (el) {
 //     return 2023 - el
 // })
@@ -58,7 +58,7 @@
 // return : nothing
 
 // let student = ['anuja', 'manali', 'ashlesha']
-// for (i = 0; i < student.length; i++) {         //using foe loop
+// for (i = 0; i < student.length; i++) {         //using for loop
 //     console.log('welcome ' + student[i])
 // }
 
@@ -141,7 +141,7 @@
 //splice 
 //return : removed element array
 
-//syntax: arrayName.splice(startindex, no of delet element,replace1,replace2)
+//syntax: arrayName.splice(startindex, no of deleted element,replace1,replace2)
 
 //               0   1   2   3   4   5   6   7
 // let marks1 = [12, 67, 34, 87, 10, 32, 97, 73]

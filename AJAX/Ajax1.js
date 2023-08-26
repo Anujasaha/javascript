@@ -263,4 +263,4 @@ getUser()
 //URL -            https://reqres.in   /api/users    /2
 //url structure -  baseurl       +     response   +  para
 //                                          1.query para -- if after response ? (question mark) is present in url --query type
-//                                          2.path para  -- if after response / (forwsrd slash) is present in url --path type
+//                                          2.path para  -- if after response / (forward slash) is present in url --path type
